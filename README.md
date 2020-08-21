@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # assembly_computer
-=======
-# 1.0 要求和功能
+## 1.0 要求和功能
 
  该程序的功能如下: 
 
@@ -29,5 +27,18 @@
 
 5. 用户输入"4"后可更改当前的日期、时间,更改后返回到主选单(提示:输入字符串)。
 
-# 2.0 功能实现
->>>>>>> Self-starting computer
+## 2.0 功能实现
+### 2.1 主界面
+![](https://github.com/hkmayfly/assembly_computer/blob/master/p1.png)
+
+### 2.2 重启
+![](https://github.com/hkmayfly/assembly_computer/blob/master/p2.png)
+
+### 2.3 动态显示时间
+![](https://github.com/hkmayfly/assembly_computer/blob/master/p3.png)
+
+### 2.4 字体颜色
+![](https://github.com/hkmayfly/assembly_computer/blob/master/p4.png)
+
+### 2.5 设置时间
+![](https://github.com/hkmayfly/assembly_computer/blob/master/5.png)
